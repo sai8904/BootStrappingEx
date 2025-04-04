@@ -22,7 +22,7 @@ This project leverages **Bootstrap’s responsive utilities** to ensure an optim
 📌 Laptops & desktops 💻  
 
 ## 📸 Preview  
-![Project Preview](https://github.com/sai8904/BootStrappingEx/blob/main/boot.mp4)  
+![Project Preview](https://github.com/sai8904/BootStrappingEx/blob/main/Screenshot%202025-04-04%20231357.png)  
 
 ## 📂 How to Use  
 1. Clone the repository:  
